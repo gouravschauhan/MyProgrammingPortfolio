@@ -1,8 +1,11 @@
 # MyProgrammingPortfolio
 Computer programing
 C++ program for ATM
+
 C++ program for how calculator work
+
 C++ program for how grade calculator works
+
 C++ program for how the number gusessing works 
 
 This is a simple of C++ how the ATM works
